@@ -1,0 +1,174 @@
+body{
+    text-align: center;
+}
+
+main{
+    height: 500px;
+    width: 650px;
+    background-color: rgb(48, 50, 53);
+    margin-left: 350px;
+    padding: 70px 100px 150px 100px;
+    border-radius: 20%;
+    text-align: center;
+}
+
+.b789{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    font-size: 50px;
+    letter-spacing: 70px;
+    line-height: 115px;    
+}
+
+.b456{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    font-size: 50px;
+    letter-spacing: 70px;
+    line-height: 115px;
+    
+}
+
+.b123{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    font-size: 50px;
+    letter-spacing: 70px;
+    line-height: 115px;
+    margin-top: -85px;
+}
+.b0{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    font-size: 60px;
+    letter-spacing: 70px;
+    line-height: 115px;
+}
+
+.b9{
+    width: 130px;
+    height: 80px;
+    border-radius: 20%;
+    background-color: rgb(255, 0, 81);
+    color: aliceblue;
+    margin: 10px;
+    text-align: right;
+}
+
+.b9:hover{
+    background-color: rgb(250, 37, 104);
+    transition: 0.3s;
+}
+
+.b9:active{
+    background-color: rgb(207, 5, 69);
+    transition: 0.3s;
+}
+
+.imgc{
+    height: 700px;
+    margin-top: 300px;
+    /*width: 50px;*/
+}
+
+/*.back_fon{
+    height: 700px;
+    width: 700px;
+    background-color: rgb(48, 50, 53);
+    text-align: center;
+}*/
+
+.f{
+    width: 130px;
+    height: 80px;
+    border-radius: 20%;
+    background-color: rgb(155, 155, 155);
+    color: aliceblue;
+    margin: 10px;
+    text-align: right;
+}
+
+.f:hover{
+    background-color: rgb(180, 180, 180);
+    transition: 0.3s;
+}
+
+.f:active{
+    background-color: rgb(104, 104, 104);
+    transition: 0.3s;
+}
+
+.ravno{
+    width: 150px;
+    height: 80px;
+    border-radius: 20%;
+    background-color: rgb(64, 208, 179);
+    color: aliceblue;
+    margin: 10px;
+    text-align: right;
+    padding-right: 135px;
+}
+
+.ravno:hover{
+    background-color: rgb(80, 254, 219);
+    transition: 0.3s;
+}
+
+.ravno:active{
+    background-color: rgb(49, 155, 134);
+    transition: 0.3s;
+}
+
+.plus{
+    width: 135px;
+    height: 190px;
+    border-radius: 20%;
+    background-color: rgb(64, 208, 179);
+    color: aliceblue;
+    margin: 5px;
+    margin-left: 10px;
+    margin-bottom: -5px;
+    text-align: right;
+    z-index: 2;
+}
+
+.plus:hover{
+    background-color: rgb(80, 254, 219);
+    transition: 0.3s;
+}
+
+.plus:active{
+    background-color: rgb(49, 155, 134);
+    transition: 0.3s;
+}
+
+.pus{
+    width: 130px;
+    height: 75px;
+    border-radius: 20%;
+    background-color: rgb(48, 50, 53);
+    margin: 10px;
+    z-index: 1;
+}
+
+.screeen{
+    background-color: antiquewhite;
+    height: 70px;
+    width: 580px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    border-radius: 10%;
+    z-index: 1;
+}
+
+.digit{
+    font-size: 60px;
+    color: black;
+    z-index: 2;
+    text-align: right;
+    
+}
